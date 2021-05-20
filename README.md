@@ -1,1 +1,1 @@
-# ExcelR-MultipleLinearRegression
+# MultipleLinearRegression
